@@ -4,3 +4,12 @@ To run the project
 2. ng serve
 3. visit http://localhost:4200/
 then click login button directly.(no password or email required to login).
+
+ # Core concepts used in project
+•	Angular
+•	Bootstrap
+•	Postman
+•	Json-Sever
+•	TypeScript
+
+
